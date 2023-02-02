@@ -1,0 +1,90 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+a{
+    color: #009ACD;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+.angela{
+    margin: auto;
+    width: 25%;
+}
+.coppy{
+    margin-top: 20px;
+    color: aliceblue;
+    font-size: 0.75rem;
+
+}
+.contact{
+    margin: auto;
+    width: 35%;
+}
+.top-content{
+    background-color: #AAE3E2;
+    padding-top: 300px;
+    position: relative;
+}
+.mid-content{
+    /* background-color: #FDEBED; */
+    margin: 100px auto;
+    
+}
+.bot-content{
+    background-color: #93C6E7;
+    padding-top: 30px ;
+    padding-bottom: 50px;
+}
+.top-cloud{
+    top: 200px;
+    right: 200px;
+    position: absolute;
+}
+.bot-cloud{
+    bottom: 300px;
+    left: 300px;
+    position: absolute;
+}
+.computer-img{
+    border-radius: 50%;
+    float: left;
+    margin: auto 30px;
+    width: 25%;
+    
+}
+.chillies-img{
+    float: right;
+    margin: auto 30px;
+    width: 25%;
+}
+h1{
+    color: #66bfbf;
+}
+h2{
+    color: #66bfbf;
+}
+h3{
+    color: #11999e;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 10px;
+    color: #bebebe;
+    margin: 75px auto;
+    width: 20%;
+}
+
+p{
+    line-height: 2;
+}
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+}
